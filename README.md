@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Elaine FJ.
+# Elaine FJ.
 I'm Elaine from Taiwan, and I do content on Development.
 
 ## Skills and Experience

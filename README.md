@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Elaine FJ.
-I'm Elaine from Taiwan, and I do content on Developemnt.
+I'm Elaine from Taiwan, and I do content on Development.
 
 ## Skills and Experience
 * HTML / CSS / JS

@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Elaine FJ.
+I'm Elaine from Taiwan, and I do content on Developemnt.
+
+## Skills and Experience
+* HTML / CSS / JS
 
 <!--
 **daedae0621/daedae0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
